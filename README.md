@@ -1,2 +1,2 @@
 # significance
-Significance Test for Christina Hölblin
+Significance Test for C. H.
